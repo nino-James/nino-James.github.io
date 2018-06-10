@@ -1,6 +1,6 @@
 # Site settings
 title: 可爱的mimo酱 # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "img/facebook.jpg"
 tagline: "cn"
 description: "可爱即正义"  # 一句话描述你的博客
 baseurl: ""
@@ -18,7 +18,7 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username:
-github_username: 
+github_username:
 facebook_username:
 weibo_username:
 zhihu_username:
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "mimo" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments
 comments :
